@@ -1,8 +1,6 @@
-linux commands
-shell script
+ilinux
+shellscript
 git
-maven
-sonarcubes
 
 
 
