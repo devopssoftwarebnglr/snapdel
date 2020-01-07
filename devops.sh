@@ -3,6 +3,8 @@ shell script
 git
 maven
 sonarcubes
+nexus
+
 
 
 
